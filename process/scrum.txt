@@ -1,0 +1,56 @@
+(Scrum Framework)
+	scrum -> agile
+
+	embraces changes
+	reduces risks and costs
+	is a regular and tangible process
+
+(Sprint)
+	A short, time-boxed period when a scrum team works to complete a set amount of work
+	Sprints make projects more manageable, allow teams to ship high-quality work faster and more frequently,
+	and gives them more flexibility to adapt to change
+
+	Sprint cycle:
+		product backlog -> sprint backlog -> increment/demo
+			1. sprint planning -> daily scrum -> sprint review -> sprint retro
+
+	1. product owner -> product backlog -> sprint goal
+	2. daily scrum -> about how the work is progressing -> sprint goal
+	3. sprint review -> demo, showcase -> stakeholders
+	4. sprint retro -> indentify areas of improvement
+
+	(Do)
+		understand: sprint goal + how success will be mesure
+		well-groomed backlog: priorities + dependencies
+		encourage: team member to sketch out tasks
+		leave out: dependencies: another team / designs / legal sign-off
+		capture: information -> jira tickets
+	(Don't)
+		don't pull too many stories / overestimate velocity / impossible tasks
+		don't forget about quality and technical debt
+		don't force it to be fast, make the vision clear
+		don't take large amount of unknown or high-risk work -> next sprint
+		don't ignore the team's concerns -> address the issue and recalibrate
+
+	(Optimize with automation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
